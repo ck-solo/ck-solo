@@ -30,10 +30,16 @@
 
 ---
 
+---
+
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,tailwind,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,docker,kubernetes,aws,html,css,tailwind,git,github,vscode" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/GenAI-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
 ---
