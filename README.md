@@ -63,9 +63,9 @@
 
 ## 🚀 Featured Projects
 
-- 🔥 **Project 1** — https://realtimegroupchat.vercel.app/
-- 🔥 **Project 2** — https://ck-solo.github.io/YoutubeClone/
-- 🔥 **Project 3** — https://tasktracker-two-pied.vercel.app/
+- 🔥 **Project 1** — https://coderoom-l4w0.onrender.com/
+- 🔥 **Project 2** — https://profilio-amber.vercel.app/
+- 🔥 **Project 3** — https://docs-api-three.vercel.app/
 
 ---
 
