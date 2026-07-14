@@ -94,17 +94,12 @@ Status:
 # 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ck-solo&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ck-solo&theme=tokyonight&utcOffset=5.5" width="48%" />
+  <img src="https://github-readme-stats-one.vercel.app/api?username=ck-solo&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="49%" alt="Chandan's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ck-solo&theme=tokyonight&hide_border=true" width="49%" alt="Chandan's GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ck-solo&theme=tokyonight" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ck-solo&theme=tokyonight" width="48%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ck-solo&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats-one.vercel.app/api/top-langs/?username=ck-solo&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" width="60%" alt="Top Languages" />
 </p>
 
 ---
@@ -141,7 +136,6 @@ Status:
         <img src="https://skillicons.dev/icons?i=github" />
       </a>
     </td>
-
   </tr>
 </table>
 
