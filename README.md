@@ -60,7 +60,7 @@ Status:
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,cpp" />
+  <img src="https://skillicons.dev/icons?i=js,ts" />
 </p>
 
 ### Frontend
